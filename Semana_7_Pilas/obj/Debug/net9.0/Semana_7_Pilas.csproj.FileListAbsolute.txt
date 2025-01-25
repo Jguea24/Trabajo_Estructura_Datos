@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\bin\Debug\net9.0\Semana_7_Pilas.exe
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\bin\Debug\net9.0\Semana_7_Pilas.deps.json
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\bin\Debug\net9.0\Semana_7_Pilas.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\bin\Debug\net9.0\Semana_7_Pilas.dll
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\bin\Debug\net9.0\Semana_7_Pilas.pdb
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.sourcelink.json
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.dll
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\refint\Semana_7_Pilas.dll
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.pdb
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\Semana_7_Pilas.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\Semana_7_Pilas\obj\Debug\net9.0\ref\Semana_7_Pilas.dll

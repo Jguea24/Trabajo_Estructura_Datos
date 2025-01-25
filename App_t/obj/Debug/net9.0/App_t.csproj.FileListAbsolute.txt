@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\App_t\bin\Debug\net9.0\App_t.exe
+C:\Trabajo_Estructura_Datos\App_t\bin\Debug\net9.0\App_t.deps.json
+C:\Trabajo_Estructura_Datos\App_t\bin\Debug\net9.0\App_t.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\App_t\bin\Debug\net9.0\App_t.dll
+C:\Trabajo_Estructura_Datos\App_t\bin\Debug\net9.0\App_t.pdb
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.sourcelink.json
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.dll
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\refint\App_t.dll
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.pdb
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\App_t.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\App_t\obj\Debug\net9.0\ref\App_t.dll
