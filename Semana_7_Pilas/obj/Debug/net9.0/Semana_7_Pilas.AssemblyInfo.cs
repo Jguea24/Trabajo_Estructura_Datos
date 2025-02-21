@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana_7_Pilas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c013b6f50c383a73de2083f0c03add34bb494a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65218d2b17e9d25ae00577f2c24c631aade1a7e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana_7_Pilas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana_7_Pilas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
