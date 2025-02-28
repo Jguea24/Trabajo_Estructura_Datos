@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        // Creamos un conjunto  de 500 ciudadanos con identificadores del 1 al 500
+        // Mostrar la carátula con el encabezado de la universidad
+        MostrarCaratula();
+
+        // Creamos un conjunto de 500 ciudadanos con identificadores del 1 al 500
         HashSet<int> ciudadanos = new HashSet<int>(Enumerable.Range(1, 500));
 
         // Creamos un conjunto de 75 ciudadanos vacunados con Pfizer (ID del 1 al 75)
@@ -28,7 +27,7 @@ class Program
         var soloAstraZeneca = vacunadosAstraZeneca.Except(vacunadosPfizer).ToList();
 
         // Imprimir los resultados con la cantidad de ciudadanos por cada categoría
-        Console.WriteLine("Total de ciudadanos no vacunados: " + noVacunados.Count);
+        Console.WriteLine("\nTotal de ciudadanos no vacunados: " + noVacunados.Count);
         Console.WriteLine("Total de ciudadanos con ambas vacunas: " + vacunadosAmbas.Count);
         Console.WriteLine("Total de ciudadanos solo con Pfizer: " + soloPfizer.Count);
         Console.WriteLine("Total de ciudadanos solo con AstraZeneca: " + soloAstraZeneca.Count);
@@ -38,5 +37,18 @@ class Program
         Console.WriteLine("Primeros 10 ciudadanos con ambas vacunas: \n" + string.Join(", ", vacunadosAmbas.Take(10)));
         Console.WriteLine("Primeros 10 ciudadanos solo con Pfizer: " + string.Join(", ", soloPfizer.Take(10)));
         Console.WriteLine("Primeros 10 ciudadanos solo con AstraZeneca: " + string.Join(", ", soloAstraZeneca.Take(10)));
+    }
+
+    // Método para mostrar la carátula de la universidad
+    static void MostrarCaratula()
+    {
+        Console.WriteLine("------------------------------------------------------");
+        Console.WriteLine("      UNIVERSIDAD ESTATAL AMAZÓNICA");
+        Console.WriteLine("     Campaña de Vacunación contra el COVID-19");
+        Console.WriteLine("            Análisis de la Situación Actual");
+        Console.WriteLine("------------------------------------------------------");
+        Console.WriteLine("               Fecha: 21 de febrero de 2025");
+        Console.WriteLine("------------------------------------------------------");
+        Console.WriteLine();
     }
 }

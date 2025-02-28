@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\Semana_11\bin\Debug\net9.0\Semana_11.exe
+C:\Trabajo_Estructura_Datos\Semana_11\bin\Debug\net9.0\Semana_11.deps.json
+C:\Trabajo_Estructura_Datos\Semana_11\bin\Debug\net9.0\Semana_11.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\Semana_11\bin\Debug\net9.0\Semana_11.dll
+C:\Trabajo_Estructura_Datos\Semana_11\bin\Debug\net9.0\Semana_11.pdb
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.sourcelink.json
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.dll
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\refint\Semana_11.dll
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.pdb
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\Semana_11.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\Semana_11\obj\Debug\net9.0\ref\Semana_11.dll

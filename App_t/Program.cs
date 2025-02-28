@@ -2,57 +2,111 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ManejoDeDatos
+class Program
 {
-    class Program
+    static Dictionary<string, string> englishToSpanish = new Dictionary<string, string>
     {
-        static void Main(string[] args)
+        {"time", "tiempo"},
+        {"person", "persona"},
+        {"year", "año"},
+        {"way", "camino/forma"},
+        {"day", "día"},
+        {"thing", "cosa"},
+        {"man", "hombre"},
+        {"world", "mundo"},
+        {"life", "vida"},
+        {"hand", "mano"},
+        {"part", "parte"},
+        {"child", "niño/a"},
+        {"eye", "ojo"},
+        {"Hello how are you", "Hola como estas"},
+        {"woman", "mujer"},
+        {"place", "lugar"},
+        {"work", "trabajo"},
+        {"week", "semana"},
+        {"case", "caso"},
+        {"point", "punto/tema"},
+        {"government", "gobierno"},
+        {"company", "empresa/compañía"}
+    };
+
+    static Dictionary<string, string> spanishToEnglish = englishToSpanish.ToDictionary(kvp => kvp.Value.Split('/')[0], kvp => kvp.Key);
+
+    static void Main()
+    {
+        while (true)
         {
-            // Crear una lista para almacenar los números reales
-            List<double> numeros = new List<double>();
+            Console.WriteLine("MENU");
+            Console.WriteLine("=======================================================");
+            Console.WriteLine("1. Traducir una frase");
+            Console.WriteLine("2. Ingresar más palabras al diccionario");
+            Console.WriteLine("0. Salir");
+            Console.Write("Seleccione una opción: ");
+            string option = Console.ReadLine();
 
-            // Pedir al usuario que ingrese los números
-            Console.WriteLine("n\ Ingrese números reales: ");
-            string entrada;
-            while ((entrada = Console.ReadLine()) != "")
+            switch (option)
             {
-                if (double.TryParse(entrada, out double numero))
-                {
-                    numeros.Add(numero);
-                }
-                else
-                {
-                    Console.WriteLine("Entrada inválida. Ingrese un número real.");
-                }
+                case "1":
+                    TranslatePhrase();
+                    break;
+                case "2":
+                    AddWordToDictionary();
+                    break;
+                case "0":
+                    return;
+                default:
+                    Console.WriteLine("Opción no válida. Intente de nuevo.");
+                    break;
             }
+        }
+    }
 
-            // Calcular el promedio
-            double promedio = numeros.Average();
+    static void TranslatePhrase()
+    {
+        Console.Write("Ingrese la frase: ");
+        string phrase = Console.ReadLine();
+        string[] words = phrase.Split(' ');
+        List<string> translatedWords = new List<string>();
 
-            // Crear listas para los números menores o iguales y mayores al promedio
-            List<double> menoresIguales = numeros.Where(n => n <= promedio).ToList();
-            List<double> mayores = numeros.Where(n => n > promedio).ToList();
-
-            // Mostrar los resultados
-            Console.WriteLine("\nDatos cargados en la lista principal:");
-            foreach (double numero in numeros)
+        foreach (string word in words)
+        {
+            string cleanedWord = new string(word.ToLower().TrimEnd(' ', '.', ',', ';', '!', '?'));
+            if (englishToSpanish.ContainsKey(cleanedWord))
             {
-                Console.WriteLine(numero);
+                translatedWords.Add(englishToSpanish[cleanedWord]);
             }
-
-            Console.WriteLine("\nPromedio: " + promedio);
-
-            Console.WriteLine("\nDatos menores o iguales al promedio:");
-            foreach (double numero in menoresIguales)
+            else if (spanishToEnglish.ContainsKey(cleanedWord))
             {
-                Console.WriteLine(numero);
+                translatedWords.Add(spanishToEnglish[cleanedWord]);
             }
-
-            Console.WriteLine("\nDatos mayores al promedio:");
-            foreach (double numero in mayores)
+            else
             {
-                Console.WriteLine(numero);
+                translatedWords.Add(word);
             }
+        }
+
+        Console.WriteLine("Su frase traducida es: " + string.Join(" ", translatedWords));
+    }
+
+    static void AddWordToDictionary()
+    {
+        Console.Write("Ingrese la palabra en inglés: ");
+        string englishWord = Console.ReadLine().ToLower();
+        Console.Write("Ingrese la traducción al español: ");
+        string spanishWord = Console.ReadLine().ToLower();
+
+        if (!englishToSpanish.ContainsKey(englishWord))
+        {
+            englishToSpanish[englishWord] = spanishWord;
+            if (!spanishToEnglish.ContainsKey(spanishWord))
+            {
+                spanishToEnglish[spanishWord] = englishWord;
+            }
+            Console.WriteLine("Palabra agregada correctamente.");
+        }
+        else
+        {
+            Console.WriteLine("La palabra ya existe en el diccionario.");
         }
     }
 }
