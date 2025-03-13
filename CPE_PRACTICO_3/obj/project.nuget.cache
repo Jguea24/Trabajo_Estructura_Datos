@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Fe92BnhN2qU=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Trabajo_Estructura_Datos\\CPE_PRACTICO_3\\CPE_PRACTICO_3.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Fe92BnhN2qU=",
+  "success": true,
+  "projectFilePath": "C:\\Trabajo_Estructura_Datos\\CPE_PRACTICO_3\\CPE_PRACTICO_3.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1b21c7bf67f74f7d9d16a9c44790a7772558c7ba
 }

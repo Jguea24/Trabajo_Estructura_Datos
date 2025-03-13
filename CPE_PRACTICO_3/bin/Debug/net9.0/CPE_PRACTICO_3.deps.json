@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v9.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CPE_PRACTICO_3/1.0.0": {
+        "runtime": {
+          "CPE_PRACTICO_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPE_PRACTICO_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 1b21c7bf67f74f7d9d16a9c44790a7772558c7ba
 }

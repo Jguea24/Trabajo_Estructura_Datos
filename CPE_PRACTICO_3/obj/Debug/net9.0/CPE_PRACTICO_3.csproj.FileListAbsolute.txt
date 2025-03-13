@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.exe
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.deps.json
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\refint\CPE_PRACTICO_
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.pdb
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.genruntimeconfig.cache
 C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\ref\CPE_PRACTICO_3.dll
+=======
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.exe
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.deps.json
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.dll
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\bin\Debug\net9.0\CPE_PRACTICO_3.pdb
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.sourcelink.json
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.dll
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\refint\CPE_PRACTICO_3.dll
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.pdb
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\CPE_PRACTICO_3.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\CPE_PRACTICO_3\obj\Debug\net9.0\ref\CPE_PRACTICO_3.dll
+>>>>>>> 1b21c7bf67f74f7d9d16a9c44790a7772558c7ba
