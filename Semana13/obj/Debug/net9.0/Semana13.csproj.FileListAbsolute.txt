@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\Semana13\bin\Debug\net9.0\Semana13.exe
+C:\Trabajo_Estructura_Datos\Semana13\bin\Debug\net9.0\Semana13.deps.json
+C:\Trabajo_Estructura_Datos\Semana13\bin\Debug\net9.0\Semana13.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\Semana13\bin\Debug\net9.0\Semana13.dll
+C:\Trabajo_Estructura_Datos\Semana13\bin\Debug\net9.0\Semana13.pdb
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.sourcelink.json
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.dll
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\refint\Semana13.dll
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.pdb
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\Semana13.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\Semana13\obj\Debug\net9.0\ref\Semana13.dll

@@ -1,0 +1,15 @@
+C:\Trabajo_Estructura_Datos\Practica_clase\bin\Debug\net9.0\Practica_clase.exe
+C:\Trabajo_Estructura_Datos\Practica_clase\bin\Debug\net9.0\Practica_clase.deps.json
+C:\Trabajo_Estructura_Datos\Practica_clase\bin\Debug\net9.0\Practica_clase.runtimeconfig.json
+C:\Trabajo_Estructura_Datos\Practica_clase\bin\Debug\net9.0\Practica_clase.dll
+C:\Trabajo_Estructura_Datos\Practica_clase\bin\Debug\net9.0\Practica_clase.pdb
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.AssemblyInfoInputs.cache
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.AssemblyInfo.cs
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.csproj.CoreCompileInputs.cache
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.sourcelink.json
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.dll
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\refint\Practica_clase.dll
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.pdb
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\Practica_clase.genruntimeconfig.cache
+C:\Trabajo_Estructura_Datos\Practica_clase\obj\Debug\net9.0\ref\Practica_clase.dll

@@ -1,0 +1,14 @@
+C:\Proyectos_en_C#\Semana_3\bin\Debug\net9.0\Semana_3.exe
+C:\Proyectos_en_C#\Semana_3\bin\Debug\net9.0\Semana_3.deps.json
+C:\Proyectos_en_C#\Semana_3\bin\Debug\net9.0\Semana_3.runtimeconfig.json
+C:\Proyectos_en_C#\Semana_3\bin\Debug\net9.0\Semana_3.dll
+C:\Proyectos_en_C#\Semana_3\bin\Debug\net9.0\Semana_3.pdb
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.AssemblyInfoInputs.cache
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.AssemblyInfo.cs
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.csproj.CoreCompileInputs.cache
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.dll
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\refint\Semana_3.dll
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.pdb
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\Semana_3.genruntimeconfig.cache
+C:\Proyectos_en_C#\Semana_3\obj\Debug\net9.0\ref\Semana_3.dll
